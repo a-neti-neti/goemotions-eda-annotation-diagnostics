@@ -25,7 +25,7 @@ This project was presented as the final EDA project at **TovTech**.
 
 ## Key Visual
 
-![Average Emotion Scores by number of Raters per Comment](visuals/emotion_score_by_raters_1_5.png)
+![Average Emotion Scores by number of Raters per Comment](emotion_score_by_raters_1_5.png)
 
 ---
 
